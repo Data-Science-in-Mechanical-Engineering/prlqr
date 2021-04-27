@@ -10,8 +10,7 @@ The paper is going to be presented at the 3rd Annual Learning for Dynamics & Con
 
 If you are finding this code useful please let us know and get in contact.
 
-When you are using this or parts of this code in an ace
-demic setting please cite the above paper:
+When you are using this or parts of this code in an academic setting please cite the above paper:
 
 > 📋 TODO: Add bibtex after official publication as well as arxiv link
 
