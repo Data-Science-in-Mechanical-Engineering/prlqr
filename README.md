@@ -8,11 +8,25 @@ by *Alexander von Rohr*, *Matthias Neumann-Brosig* and *Sebastian Trimpe*.
 
 The paper is going to be presented at the 3rd Annual Learning for Dynamics & Control Conference (L4DC) and will be published electronically in the Proceedings of Machine Learning Research (PMLR).
 
+A preprint of the paper can be found on [arXiv](https://arxiv.org/abs/2105.07668).
+
+
 If you are finding this code useful please let us know and get in contact.
 
-When you are using this or parts of this code in an academic setting please cite the above paper:
+When you are using this code or parts of it in an academic setting please cite the above paper:
 
-> 📋 TODO: Add bibtex after official publication as well as arxiv link
+```
+@misc{vonrohr2021probabilistic,
+      title={Probabilistic robust linear quadratic regulators with Gaussian processes}, 
+      author={Alexander von Rohr and Matthias Neumann-Brosig and Sebastian Trimpe},
+      year={2021},
+      eprint={2105.07668},
+      archivePrefix={arXiv},
+      primaryClass={eess.SY}
+}
+```
+
+> 📋 TODO: Add bibtex after PMLR publication
 
 ## Abstract
 
