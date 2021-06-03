@@ -16,17 +16,21 @@ If you are finding this code useful please let us know and get in contact.
 When you are using this code or parts of it in an academic setting please cite the above paper:
 
 ```
-@misc{vonrohr2021probabilistic,
-      title={Probabilistic robust linear quadratic regulators with Gaussian processes}, 
-      author={Alexander von Rohr and Matthias Neumann-Brosig and Sebastian Trimpe},
-      year={2021},
-      eprint={2105.07668},
-      archivePrefix={arXiv},
-      primaryClass={eess.SY}
+@InProceedings{vonrohr2021probabilistic,
+  title     =     {Probabilistic robust linear quadratic regulators with Gaussian processes},
+  author    =     {{von Rohr}, Alexander and Neumann-Brosig, Matthias and Trimpe, Sebastian},
+  booktitle =     {Proceedings of the 3rd Conference on Learning for Dynamics and Control},
+  pages     =     {324--335},
+  year      =     {2021},
+  editor    =     {Jadbabaie, Ali and Lygeros, John and Pappas, George J. and A.&nbsp;Parrilo, Pablo and Recht, Benjamin and Tomlin, Claire J. and Zeilinger, Melanie N.},
+  volume    =     {144},
+  series    =     {Proceedings of Machine Learning Research},
+  month     =     {07 -- 08 June},
+  publisher =     {PMLR},
+  pdf       =     {http://proceedings.mlr.press/v144/rohr21a/rohr21a.pdf},
+  url       =     {http://proceedings.mlr.press/v144/rohr21a.html}
 }
 ```
-
-> 📋 TODO: Add bibtex after PMLR publication
 
 ## Abstract
 
